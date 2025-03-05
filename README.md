@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/Azzedine-zemmari/Ecommerce)
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **lambarahoussam@gmail.com**
 
