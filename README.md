@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Lambara Houssam</h1>
-<h3 align="center">Full Stack Developer — Java • Angular • Laravel</h3>
+<h3 align="center">Full Stack Developer — Java & Angular</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=houssamlambara&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
+<!-- NEW TROPHY DESIGN -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=houssamlambara&margin-w=10&theme=discord" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=houssamlambara&theme=algolia&margin-w=15&margin-h=15&row=2&column=4" />
   </a>
 </p>
 
 ---
 
 ### 🔭 I’m currently working on  
-**Full E-commerce Website (Java Spring Boot / Angular)**  
+**Full E-commerce Website (Java Spring Boot / Angular / MySQL)**  
 
 ### 🌱 I’m currently learning  
-**Advanced Java • Spring Security • Angular • Laravel**  
+**Advanced Java • Spring Security • Angular**  
 
 ### 📫 Contact  
 **lambarahoussam@gmail.com**
@@ -33,11 +34,8 @@
 
 ---
 
-# 🛠️ Technologies
+# ⚙️ Backend
 
----
-
-## ⚙️ Backend  
 <p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -56,7 +54,8 @@
 
 ---
 
-## 🎨 Frontend  
+# 🎨 Frontend
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -75,7 +74,8 @@
 
 ---
 
-## 🔧 Tools  
+# 🧰 Tools
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
