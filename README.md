@@ -1,22 +1,94 @@
-<h1 align="center">Hi 👋, I'm Lambara Houssam</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Houssam;Full+Stack+Java+%2F+Angular+Dev;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=houssamlambara&label=Profile%20views&color=0e75b6&style=flat" alt="houssamlambara" /> </p>
+<h3 align="center">Passionate Full Stack Developer based in Morocco 🇲🇦</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssamlambara" alt="houssamlambara" /></a> </p>
-
-- 🔭 I’m currently working on [Ecommerce website](https://github.com/Azzedine-zemmari/Ecommerce)
-
-- 🌱 I’m currently learning **JAVA**
-
-- 📫 How to reach me **lambarahoussam@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/houssam lambara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssam lambara" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=houssamlambara&theme=radical&no-frame=true&row=1&column=6" alt="houssamlambara" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssamlambara&show_icons=true&locale=en" alt="houssamlambara" /></p>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Enterprise Web Applications**
+- 🌱 I’m currently deep diving into **Spring Boot Microservices & Cloud Architecture**
+- 💼 Specializing in **Java (Backend)** and **Angular (Frontend)** ecosystem.
+- 📫 How to reach me: **lambarahoussam@gmail.com**
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>View Complete List of Tools</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Code-Java-red?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Spring_Boot-green?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Security-Spring_Security-6db33f?style=flat&logo=springsecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Front-Angular-dd0031?style=flat&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Style-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
+  </p>
+</details>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=houssamlambara&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamlambara&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houssamlambara&theme=radical&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+<br/>
+
+### 🤝 Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/houssamlambara" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="houssam lambara" /></a>
+<a href="mailto:lambarahoussam@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="houssam lambara" /></a>
+</p>
