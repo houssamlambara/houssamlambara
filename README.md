@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lambara Houssam</h1>
-<h3 align="center">Full Stack Developer — Java & Angular</h3>
+<h3 align="center">Full Stack Developer — Java • Angular • Laravel</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=houssamlambara&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -17,7 +17,7 @@
 **Full E-commerce Website (Java Spring Boot / Angular)**  
 
 ### 🌱 I’m currently learning  
-**Advanced Java • Spring Security • Angular**  
+**Advanced Java • Spring Security • Angular • Laravel**  
 
 ### 📫 Contact  
 **lambarahoussam@gmail.com**
@@ -27,34 +27,36 @@
 ## 🔗 Connect with me  
 <p align="left">
   <a href="https://linkedin.com/in/houssam-lambara" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-# 🖥️ Backend Technologies
+# 🛠️ Technologies
 
+---
+
+## ⚙️ Backend  
 <p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Spring%20Security-4CAF50?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 </p>
 
 ---
 
-# 🎨 Frontend Technologies
-
+## 🎨 Frontend  
 <p align="left">
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -68,6 +70,15 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+</p>
+
+---
+
+## 🔧 Tools  
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
 
