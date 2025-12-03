@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lambara Houssam</h1>
-<h3 align="center">A passionate Full Stack Developer (Java | Angular | PHP/Laravel)</h3>
+<h3 align="center">A passionate Full Stack Developer (Java | Angular)</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=houssamlambara&label=Profile%20views&color=0e75b6&style=flat" alt="houssamlambara" />
@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Full E-commerce Website (Java Spring Boot / Angular / Laravel)**  
-- 🌱 I’m currently learning **Advanced Java, JEE, Angular**  
+- 🔭 I’m currently working on **SaaS Gestion de pharmacie (Java Spring Boot / Angular )**  
+- 🌱 I’m currently learning **Advanced Java, Spring Boot, Angular**  
 - 📫 How to reach me: **lambarahoussam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
