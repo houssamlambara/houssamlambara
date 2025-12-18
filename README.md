@@ -74,6 +74,6 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
 # 📊 GitHub Stats:
-[![](https://awesome-github-stats.azurewebsites.net/user-stats/WissamDouskary?cardType=level&theme=darcula&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/houssamlambara?cardType=level&theme=darcula&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=houssamlambara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WissamDouskary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
