@@ -73,7 +73,8 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
-# 📊 GitHub Stats:
+
+<h3 align="left">📊 GitHub Stats:</h3>
 
 [![](https://awesome-github-stats.azurewebsites.net/user-stats/houssamlambara?cardType=level&theme=darcula&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=houssamlambara&theme=dark&hide_border=false)<br/>
